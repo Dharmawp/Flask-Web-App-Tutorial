@@ -20,4 +20,4 @@ python main.py
 
 ## Viewing The App
 
-Go to `https://salmon-sand-0c0a66d10.1.azurestaticapps.net/`
+Go to `https://ahealthmonitor.azurewebsites.net`
